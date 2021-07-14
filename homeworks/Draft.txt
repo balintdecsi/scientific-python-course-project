@@ -1,0 +1,4 @@
+Deep dive into Sense HAT with Python
+
+Short description:
+Collecting weather-related data on Sense HAT sensors. Building a server that provides cloud-based features and serves users with weather forecast utility.
